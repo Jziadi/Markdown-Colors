@@ -28,7 +28,6 @@
 | ---| --- | --- | --- | --- | --- | --- | --- |
 
 | <span style="color:#9fd6f0">**Blues**</span> | <span style="color:#f97171">**Reds**</span> | <span style="color:#c6f680	">**Greens**</span> | <span style="color:#814c94">**Purples**</span> | <span style="color:#cc885b">**Browns**</span> | <span style="color:#f25235">**Orange**</span> | <span style="color:#eca72c">**Yellow**</span> | <span style="color:#92a7ae">**Grey**</span> |
-
 | ---| --- | --- | --- | --- | --- | --- | --- |
 
 ***
