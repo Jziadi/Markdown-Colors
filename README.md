@@ -1,5 +1,11 @@
 # <span style="color:#2d9bda">**M**</span><span style="color:#da2d45">**A**</span><span style="color:#45da2d">**R**</span><span style="color:#6c2dda">**K**</span><span style="color:#875429">**D**</span><span style="color:#ff940e">**O**</span><span style="color:#ffec31">**W**</span><span style="color:#949699">**N**</span>  &nbsp; <span style="color:#165a96">**C**</span><span style="color:#e46e62">**O**</span><span style="color:#2dda6c">**L**</span><span style="color:#c91667">**O**</span><span style="color:#cc885b">**R**</span><span style="color:#ffc873">**S**</span>
 
+**Simply Download the README.md file and import it in any Markdown notebook.**
+
+**The colors will appear upon import.  I used Boostnote to create this document, therefore, I recommend importing the file using into that.**
+
+![Markdown-Color Image:](https://github.com/Jziadi/Markdown-Colors/blob/master/markdown_color_image.png)
+
 | <span style="color:#2d9bda">**Blues**</span> | <span style="color:#da2d45">**Reds**</span> | <span style="color:#45da2d">**Greens**</span> | <span style="color:#6c2dda">**Purples**</span> | <span style="color:#875429">**Browns**</span> | <span style="color:#ff940e">**Orange**</span> | <span style="color:#ffec31">**Yellow**</span> | <span style="color:#949699">**Grey**</span> | 
 | ---| --- | --- | --- | --- | --- | --- | --- |
 
